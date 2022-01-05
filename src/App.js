@@ -3,7 +3,7 @@ import DrumPad from './components/DrumPad';
 
 function App() {
   return (
-    <div>
+    <div className='drum-machine'>
     <DrumPad />
     </div>
   );
